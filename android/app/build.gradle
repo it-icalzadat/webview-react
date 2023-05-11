@@ -113,7 +113,6 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.webviewreact"
     defaultConfig {
         applicationId 'com.irenecalzada.webviewreact'
         minSdkVersion rootProject.ext.minSdkVersion
