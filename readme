@@ -1,0 +1,10 @@
+
+#Recomendaciones
+- Utilizar npm i para descargar dependencias
+- Tener en el celular o un emulador la aplicación Expo Go, esta nos ayudará a visualizar el flujo
+    y se encuentra en Play Store
+- El comando para correr la aplicación con un dispositivo conectado a la computadora por cable es 
+    expo start --android, en caso de que no abra un dispositivo selecciona shift+a y saldrán los 
+    dispositivos disponibles y al seleccionarlo abrirá en automático la aplicación de Expo Go 
+    cargando la aplicación
+
